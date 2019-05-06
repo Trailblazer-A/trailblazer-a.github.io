@@ -34,32 +34,6 @@
   </url>
   
   <url>
-    <loc>https://example.com/projects/contributions/</loc>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/projects/contributions/deploy-triggers/</loc>
-    <priority>0.8</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/publications/alldaydevops/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/projects/contributions/shields-docker/</loc>
-    <priority>0.8</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/projects/contributions/schema-org/</loc>
-    <priority>0.8</priority>
-  </url>
-  
-  <url>
     <loc>https://example.com/tags/elasticsearch/</loc>
     <lastmod>2018-02-11T12:41:05-05:00</lastmod>
     <priority>0</priority>
@@ -138,48 +112,6 @@
   </url>
   
   <url>
-    <loc>https://example.com/tags/ci/cd-pipelines/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/continuous-delivery/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/continuous-integration/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/culture/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/devops/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/publications/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/agile/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://example.com/tags/.net/</loc>
     <priority>0</priority>
   </url>
@@ -200,11 +132,6 @@
   </url>
   
   <url>
-    <loc>https://example.com/tags/bamboo/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://example.com/tags/bash/shell/</loc>
     <priority>0</priority>
   </url>
@@ -216,11 +143,6 @@
   
   <url>
     <loc>https://example.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/docker/</loc>
     <priority>0</priority>
   </url>
   
@@ -246,11 +168,6 @@
   
   <url>
     <loc>https://example.com/tags/jira/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/json/</loc>
     <priority>0</priority>
   </url>
   
@@ -285,11 +202,6 @@
   </url>
   
   <url>
-    <loc>https://example.com/search/</loc>
-    <priority>0.1</priority>
-  </url>
-  
-  <url>
     <loc>https://example.com/tags/selenium/</loc>
     <priority>0</priority>
   </url>
@@ -310,17 +222,7 @@
   </url>
   
   <url>
-    <loc>https://example.com/tags/jquery/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://example.com/tags/jenkins/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/node.js/</loc>
     <priority>0</priority>
   </url>
   

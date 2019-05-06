@@ -32,19 +32,7 @@ theme = "resume"
     name = "GitHub"
     link = "https://github.com/maninwindow"
 
-# [[params.handles]]
-#    name = "Bitbucket"
-#    link = "https://bitbucket.org/eddiewebb/"
-
 [[params.handles]]
     name = "Stack Overflow"
     link = "https://stackoverflow.com/users/2828685/almett"
     icon = "stack-overflow"
-
-# [[params.handles]]
-#     name = "Keybase"
-#     link = "https://keybase.io/edwardawebb"
-#     icon = "keybase"
-
-# [params.google.analytics]
-#     trackerID = "XX-123446-01"
