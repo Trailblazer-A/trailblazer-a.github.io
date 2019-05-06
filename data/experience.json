@@ -1,0 +1,32 @@
+[
+    {
+        "role":"Software engineer & curriculum designer & Kids programming tutor",
+        "company":"Coolcoding LTD",
+        "summary":"Education technology startup",
+        "range":"April 2019 - Present"
+    },
+    {
+        "role":"Full-stack engineer",
+        "company":"Dansk Scanning A/S LTD",
+        "summary":"Online document digitazation platform development",
+        "range":"September 2018 - April 2019"
+    },
+    {
+        "role":"Back-end engineer & Test automation engineer",
+        "company":"Symbio (eBay off-shore team)",
+        "summary":"eBay localization & automation platform development",
+        "range":"September 2017 - September 2018"
+    },
+    {
+        "role":"Back-end engineer & Test automation engineer",
+        "company":"iSoftStone (Microsoft off-shore team)",
+        "summary":"Microsoft localization & automation platform development",
+        "range":"June 2015 - July 2017"
+    },
+    {
+        "role":"Back-end engineer",
+        "company":"Startup company",
+        "summary":"Education O2O product development",
+        "range":"June 2014 - June 2015"
+    }
+]

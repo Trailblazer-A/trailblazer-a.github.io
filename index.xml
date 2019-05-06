@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Alimjan Mettursun</title>
+    <link>https://example.com/</link>
+    <description>Recent content in Home on Alimjan Mettursun</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Feb 2018 18:56:13 -0500</lastBuildDate>
+    
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dansk Scanning A/S - WebLager</title>
+      <link>https://example.com/projects/creations/weblager/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://example.com/projects/creations/weblager/</guid>
+      <description>WebLager has been developed as desired and in close dialogue with building case handlers and other stakeholders in the municipalities around the country. It helps to ensure a relevant and usable surface for managing and using the archive in everyday life.
+Technical role: Full-stack developer (Remote)
+Features
+ Font-end &amp;amp; back-end development by GWT (Google Web Toolkit) Unlock locked user status Search documents Download documents Auto-complete search by street names, municipalities.</description>
+    </item>
+    
+    <item>
+      <title>eBay global localization &amp; automation system</title>
+      <link>https://example.com/projects/creations/ebay-localization-playform/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/projects/creations/ebay-localization-playform/</guid>
+      <description>Technical roles
+ Back-end developer Test automation engineer  Back-end development
+ Work status sync up between JIRA Multiple device localizationn pipeline automation Extend Jenkins Test result stats Automatic screenshot taking Screenshot editing and syncing Batch upload &amp;amp; download screenshots  Automated testing
+ eBay website automated test script writing and screenshot outputting StubHub (ticket exchange company owned by eBay) Android &amp;amp; iOS APP automation  </description>
+    </item>
+    
+    <item>
+      <title>Oral English practicing social media APP</title>
+      <link>https://example.com/projects/creations/language_learning_app/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/projects/creations/language_learning_app/</guid>
+      <description>Roles
+ Boss man Full-stack developer  APP Features
+ Sign in with WeChat Show geographical locations of signup users on the home screen Voice chat capability Natural language processing Speech to text conversion Analysing texts Possible answer suggession to a question Pay for membership  </description>
+    </item>
+    
+    <item>
+      <title>Microsoft global localization &amp; automation platform</title>
+      <link>https://example.com/projects/creations/microsoft_localization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/projects/creations/microsoft_localization/</guid>
+      <description>Technical roles
+ Back-end developer Automation tool develope  Major responsibilities
+ Microsoft global localization website back-end development Automated testing tools development (Web, Android and iOS) Language translation tool development for 52 different languages Pseduo translation generator Automoation platform monitoring tool. Whenever the tool crashes, monitoring feature sends Email to the developer with the bug specification  </description>
+    </item>
+    
+    <item>
+      <title>O2O platform for kid&#39;s education of music</title>
+      <link>https://example.com/projects/creations/kids_education_of_music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/projects/creations/kids_education_of_music/</guid>
+      <description>Music education platform that connects parents with music teachers. We offer two versions of this APP, one is for learners (kids), another is for teachers. Parents/students book classes of their prefered instruments, talk to teachers to decide the teaching time and avanue. Teachers give instant feedbacks to students.
+Technical Roles
+ Full-stack engineer  Application Features
+ Instant messaging between student and teacher Curriculum generation Teachers suggession capability Instruments suggession capability WeChat &amp;amp; AliPay payment capability Book class capability  </description>
+    </item>
+    
+    <item>
+      <title>Team-based work management application</title>
+      <link>https://example.com/projects/creations/team_organizer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/projects/creations/team_organizer/</guid>
+      <description>A team-based work management mobile application designed to help teams organize, track, and manage their work. Helps team players manage their tasks, and communicate with colleagues. Helps team leaders assign tasks, track work progress and capacity of the team, and generate the weekly/monthly work report.
+Roles
+ Team leader Android developer  Application Features
+ Sign up with WeChat Send/receive Emails with attachments Manage contact list Manage team assginments Upload/download files Review pictures Authentication Roles and privilages  </description>
+    </item>
+    
+    <item>
+      <title>Atlassian Deployment Triggers</title>
+      <link>https://example.com/projects/contributions/deploy-triggers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/projects/contributions/deploy-triggers/</guid>
+      <description>Addressed pretty significant page load performance issue founde in larger deployments. Eliminates uses of intensive backend query, replacing it with an asynchronous API call against a lucene index. This change reduces page load from from 2+ minutes to nearly instant, with an incredibly responsive UI.</description>
+    </item>
+    
+    <item>
+      <title>Organically DevOps: Building Quality and Security into the Software Supply Chain at Liberty Mutual</title>
+      <link>https://example.com/publications/alldaydevops/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/publications/alldaydevops/</guid>
+      <description>This talk looked at Liberty Mutual’s transformation to Continuous Integration, Continuous Delivery, and DevOps. For a large, heavily regulated industry, this task can not only be daunting, but viewed by many as impossible. Often, organizations try to reduce the friction through micro-fixes, but Eddie’s team asked how to change the culture to reduce the friction and concluded with the following final points:
+ Don’t mandate DevOps. Give employees the chance to master their discipline with examples to set and follow.</description>
+    </item>
+    
+    <item>
+      <title>Added Docker Build Status Badge to shields.io</title>
+      <link>https://example.com/projects/contributions/shields-docker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/projects/contributions/shields-docker/</guid>
+      <description>Shields.io is a massive library of badges that can be inserted into project README&amp;rsquo;s or websites displaying various statuses (code coverage, health, version, etc). Support for docker was missing the current build health, and was a pretty trivial addition.</description>
+    </item>
+    
+    <item>
+      <title>Schema.org Structured Data documentation fixes</title>
+      <link>https://example.com/projects/contributions/schema-org/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/projects/contributions/schema-org/</guid>
+      <description>While adding Structured Data to a client&amp;rsquo;s website I found some example JSON that was invalid. Simple contribution to cleanup the user documentation providing syntactically valid JSON documents.</description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>https://example.com/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml
+[outputs] home = [&amp;quot;HTML&amp;quot;, &amp;quot;JSON&amp;quot;]  Searching additional fileds To search additional fields defined in front matter, you must add it in 2 places.</description>
+    </item>
+    
+  </channel>
+</rss>
