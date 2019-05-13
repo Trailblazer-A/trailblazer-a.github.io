@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spring on Alimjan Mettursun</title>
+    <link>https://example.com/tags/spring/</link>
+    <description>Recent content in Spring on Alimjan Mettursun</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://example.com/tags/spring/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>eBay global localization &amp; automation system</title>
+      <link>https://example.com/projects/creations/ebay-localization-playform/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/projects/creations/ebay-localization-playform/</guid>
+      <description>Technical roles
+ Back-end developer Test automation engineer  Back-end development
+ Work status sync up between JIRA Multiple device localizationn pipeline automation Extend Jenkins Test result stats Automatic screenshot taking Screenshot editing and syncing Batch upload &amp;amp; download screenshots  Automated testing
+ eBay website automated test script writing and screenshot outputting StubHub (ticket exchange company owned by eBay) Android &amp;amp; iOS APP automation  </description>
+    </item>
+    
+    <item>
+      <title>Oral English practicing social media APP</title>
+      <link>https://example.com/projects/creations/language_learning_app/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/projects/creations/language_learning_app/</guid>
+      <description>Roles
+ Boss man Full-stack developer  APP Features
+ Sign in with WeChat Show geographical locations of signup users on the home screen Voice chat capability Natural language processing Speech to text conversion Analysing texts Possible answer suggession to a question Pay for membership  </description>
+    </item>
+    
+    <item>
+      <title>O2O platform for kid&#39;s education of music</title>
+      <link>https://example.com/projects/creations/kids_education_of_music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/projects/creations/kids_education_of_music/</guid>
+      <description>Music education platform that connects parents with music teachers. We offer two versions of this APP, one is for learners (kids), another is for teachers. Parents/students book classes of their prefered instruments, talk to teachers to decide the teaching time and avanue. Teachers give instant feedbacks to students.
+Technical Roles
+ Full-stack engineer  Application Features
+ Instant messaging between student and teacher Curriculum generation Teachers suggession capability Instruments suggession capability WeChat &amp;amp; AliPay payment capability Book class capability  </description>
+    </item>
+    
+    <item>
+      <title>Team-based work management application</title>
+      <link>https://example.com/projects/creations/team_organizer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/projects/creations/team_organizer/</guid>
+      <description>A team-based work management mobile application designed to help teams organize, track, and manage their work. Helps team players manage their tasks, and communicate with colleagues. Helps team leaders assign tasks, track work progress and capacity of the team, and generate the weekly/monthly work report.
+Roles
+ Team leader Android developer  Application Features
+ Sign up with WeChat Send/receive Emails with attachments Manage contact list Manage team assginments Upload/download files Review pictures Authentication Roles and privilages  </description>
+    </item>
+    
+  </channel>
+</rss>
