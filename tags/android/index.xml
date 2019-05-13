@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Android on Alimjan Mettursun</title>
-    <link>https://example.com/tags/android/</link>
+    <link>cv.almett.com/tags/android/</link>
     <description>Recent content in Android on Alimjan Mettursun</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://example.com/tags/android/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="cv.almett.com/tags/android/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Oral English practicing social media APP</title>
-      <link>https://example.com/projects/creations/language_learning_app/</link>
+      <link>cv.almett.com/projects/creations/language_learning_app/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/projects/creations/language_learning_app/</guid>
+      <guid>cv.almett.com/projects/creations/language_learning_app/</guid>
       <description>Roles
  Boss man Full-stack developer  APP Features
  Sign in with WeChat Show geographical locations of signup users on the home screen Voice chat capability Natural language processing Speech to text conversion Analysing texts Possible answer suggession to a question Pay for membership  </description>
@@ -23,10 +23,10 @@
     
     <item>
       <title>Microsoft global localization &amp; automation platform</title>
-      <link>https://example.com/projects/creations/microsoft_localization/</link>
+      <link>cv.almett.com/projects/creations/microsoft_localization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/projects/creations/microsoft_localization/</guid>
+      <guid>cv.almett.com/projects/creations/microsoft_localization/</guid>
       <description>Technical roles
  Back-end developer Automation tool develope  Major responsibilities
  Microsoft global localization website back-end development Automated testing tools development (Web, Android and iOS) Language translation tool development for 52 different languages Pseduo translation generator Automoation platform monitoring tool. Whenever the tool crashes, monitoring feature sends Email to the developer with the bug specification  </description>
@@ -34,10 +34,10 @@
     
     <item>
       <title>Team-based work management application</title>
-      <link>https://example.com/projects/creations/team_organizer/</link>
+      <link>cv.almett.com/projects/creations/team_organizer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/projects/creations/team_organizer/</guid>
+      <guid>cv.almett.com/projects/creations/team_organizer/</guid>
       <description>A team-based work management mobile application designed to help teams organize, track, and manage their work. Helps team players manage their tasks, and communicate with colleagues. Helps team leaders assign tasks, track work progress and capacity of the team, and generate the weekly/monthly work report.
 Roles
  Team leader Android developer  Application Features
