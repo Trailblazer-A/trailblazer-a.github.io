@@ -15,6 +15,8 @@
         ]
 }
 
+Microsoft localization & automation platform is developed based on .NET framework ecosystem which enables Microsoft LQAs and automated tester report bugs, review language translations of new features and run automation test scripts to receive test results. Additionally, our team is responsible for developer Microsoft internal tools such as pseudo translation tool of 52 different languages, command line tools for executing automation scripts of each platform.
+
 **Technical roles**
 
 - Back-end developer

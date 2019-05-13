@@ -7,6 +7,8 @@
   "featured":true
 }
 
+Startup project targetted whoever wants to improve his/her speaking English in a community. APP matches you with English speakers by levels regardless of your location. Simply press and hold a button on the screen, you will able to speak with the person. For those who can't express themselves in fluent English, APP suggests possible answers.
+
 **Roles**
 
 - Boss man

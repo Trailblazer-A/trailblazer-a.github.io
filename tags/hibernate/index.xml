@@ -16,10 +16,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/projects/creations/ebay-localization-playform/</guid>
-      <description>Technical roles
+      <description>eBay global localization &amp;amp; automation system is developed specificly to the eBay LQA engineers and automation test engineers. In addition, this tool enables team leaders keep track of localization &amp;amp; automation workload, work status and work capacity of each team members.
+Technical roles
  Back-end developer Test automation engineer  Back-end development
- Work status sync up between JIRA Multiple device localizationn pipeline automation Extend Jenkins Test result stats Automatic screenshot taking Screenshot editing and syncing Batch upload &amp;amp; download screenshots  Automated testing
- eBay website automated test script writing and screenshot outputting StubHub (ticket exchange company owned by eBay) Android &amp;amp; iOS APP automation  </description>
+ Work status sync up between JIRA Multiple device localizationn pipeline automation Extend Jenkins Test result stats Automatic screenshot taking Screenshot editing and syncing Batch upload &amp;amp; download screenshots  Automated testing</description>
     </item>
     
     <item>

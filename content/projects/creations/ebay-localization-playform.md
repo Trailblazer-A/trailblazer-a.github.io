@@ -7,6 +7,8 @@
     "fact":"1,500+ Active installations across large and small companies."
 }
 
+eBay global localization & automation system is developed specificly to the eBay LQA engineers and automation test engineers. In addition, this tool enables team leaders keep track of localization & automation workload, work status and work capacity of each team members.
+
 **Technical roles**
 
 - Back-end developer

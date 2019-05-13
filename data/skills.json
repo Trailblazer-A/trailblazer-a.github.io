@@ -3,11 +3,15 @@
       "grouping":"Architecture",
       "skills":[ "IP Networking","DNS","Load Balancing","Microservices","RESTful APIs","PaaS"]
   },{
-      "grouping":"Languages, Operating Systems & Tools",
+      "grouping":"Programming Languages, Operating Systems & Tools",
       "skills":[ "Java","Python","git","subversion","linux","bash","php","jquery","javascript"]
   },
   {
       "grouping":"Platform Development & Administration",
       "skills":[ "Atlassian","Visual Studio Online","NGINX","MySQL","Wordpress"]
+  },
+  {
+      "grouping":"Language skills",
+      "skills":[ "Chinese (Native or bilingual proficiency)","English (professional proficiency)"]
   }
 ]

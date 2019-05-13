@@ -29,10 +29,10 @@ Features
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/projects/creations/ebay-localization-playform/</guid>
-      <description>Technical roles
+      <description>eBay global localization &amp;amp; automation system is developed specificly to the eBay LQA engineers and automation test engineers. In addition, this tool enables team leaders keep track of localization &amp;amp; automation workload, work status and work capacity of each team members.
+Technical roles
  Back-end developer Test automation engineer  Back-end development
- Work status sync up between JIRA Multiple device localizationn pipeline automation Extend Jenkins Test result stats Automatic screenshot taking Screenshot editing and syncing Batch upload &amp;amp; download screenshots  Automated testing
- eBay website automated test script writing and screenshot outputting StubHub (ticket exchange company owned by eBay) Android &amp;amp; iOS APP automation  </description>
+ Work status sync up between JIRA Multiple device localizationn pipeline automation Extend Jenkins Test result stats Automatic screenshot taking Screenshot editing and syncing Batch upload &amp;amp; download screenshots  Automated testing</description>
     </item>
     
     <item>
@@ -41,7 +41,8 @@ Features
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/projects/creations/language_learning_app/</guid>
-      <description>Roles
+      <description>Startup project targetted whoever wants to improve his/her speaking English in a community. APP matches you with English speakers by levels regardless of your location. Simply press and hold a button on the screen, you will able to speak with the person. For those who can&amp;rsquo;t express themselves in fluent English, APP suggests possible answers.
+Roles
  Boss man Full-stack developer  APP Features
  Sign in with WeChat Show geographical locations of signup users on the home screen Voice chat capability Natural language processing Speech to text conversion Analysing texts Possible answer suggession to a question Pay for membership  </description>
     </item>
@@ -52,9 +53,9 @@ Features
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/projects/creations/microsoft_localization/</guid>
-      <description>Technical roles
- Back-end developer Automation tool develope  Major responsibilities
- Microsoft global localization website back-end development Automated testing tools development (Web, Android and iOS) Language translation tool development for 52 different languages Pseduo translation generator Automoation platform monitoring tool. Whenever the tool crashes, monitoring feature sends Email to the developer with the bug specification  </description>
+      <description>Microsoft localization &amp;amp; automation platform is developed based on .NET framework ecosystem which enables Microsoft LQAs and automated tester report bugs, review language translations of new features and run automation test scripts to receive test results. Additionally, our team is responsible for developer Microsoft internal tools such as pseudo translation tool of 52 different languages, command line tools for executing automation scripts of each platform.
+Technical roles
+ Back-end developer Automation tool develope  Major responsibilities</description>
     </item>
     
     <item>
