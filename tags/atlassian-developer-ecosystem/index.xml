@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Atlassian Developer Ecosystem on Alimjan Mettursun</title>
-    <link>cv.almett.com/tags/atlassian-developer-ecosystem/</link>
+    <link>/tags/atlassian-developer-ecosystem/</link>
     <description>Recent content in Atlassian Developer Ecosystem on Alimjan Mettursun</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="cv.almett.com/tags/atlassian-developer-ecosystem/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/atlassian-developer-ecosystem/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>eBay global localization &amp; automation system</title>
-      <link>cv.almett.com/projects/creations/ebay-localization-playform/</link>
+      <link>/projects/creations/ebay-localization-playform/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>cv.almett.com/projects/creations/ebay-localization-playform/</guid>
+      <guid>/projects/creations/ebay-localization-playform/</guid>
       <description>Technical roles
  Back-end developer Test automation engineer  Back-end development
  Work status sync up between JIRA Multiple device localizationn pipeline automation Extend Jenkins Test result stats Automatic screenshot taking Screenshot editing and syncing Batch upload &amp;amp; download screenshots  Automated testing

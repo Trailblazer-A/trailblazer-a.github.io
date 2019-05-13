@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Typeahead on Alimjan Mettursun</title>
-    <link>cv.almett.com/tags/typeahead/</link>
+    <link>/tags/typeahead/</link>
     <description>Recent content in Typeahead on Alimjan Mettursun</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate>
     
-	<atom:link href="cv.almett.com/tags/typeahead/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/typeahead/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dansk Scanning A/S - WebLager</title>
-      <link>cv.almett.com/projects/creations/weblager/</link>
+      <link>/projects/creations/weblager/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>cv.almett.com/projects/creations/weblager/</guid>
+      <guid>/projects/creations/weblager/</guid>
       <description>WebLager has been developed as desired and in close dialogue with building case handlers and other stakeholders in the municipalities around the country. It helps to ensure a relevant and usable surface for managing and using the archive in everyday life.
 Technical role: Full-stack developer (Remote)
 Features

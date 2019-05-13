@@ -2,300 +2,300 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Alimjan Mettursun</title>
-    <link>cv.almett.com/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Alimjan Mettursun</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate>
     
-	<atom:link href="cv.almett.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Elasticsearch</title>
-      <link>cv.almett.com/tags/elasticsearch/</link>
+      <link>/tags/elasticsearch/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>cv.almett.com/tags/elasticsearch/</guid>
+      <guid>/tags/elasticsearch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GWT</title>
-      <link>cv.almett.com/tags/gwt/</link>
+      <link>/tags/gwt/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>cv.almett.com/tags/gwt/</guid>
+      <guid>/tags/gwt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Java</title>
-      <link>cv.almett.com/tags/java/</link>
+      <link>/tags/java/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>cv.almett.com/tags/java/</guid>
+      <guid>/tags/java/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Javascript</title>
-      <link>cv.almett.com/tags/javascript/</link>
+      <link>/tags/javascript/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>cv.almett.com/tags/javascript/</guid>
+      <guid>/tags/javascript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MVP</title>
-      <link>cv.almett.com/tags/mvp/</link>
+      <link>/tags/mvp/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>cv.almett.com/tags/mvp/</guid>
+      <guid>/tags/mvp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Monday.com</title>
-      <link>cv.almett.com/tags/monday.com/</link>
+      <link>/tags/monday.com/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>cv.almett.com/tags/monday.com/</guid>
+      <guid>/tags/monday.com/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MySQL</title>
-      <link>cv.almett.com/tags/mysql/</link>
+      <link>/tags/mysql/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>cv.almett.com/tags/mysql/</guid>
+      <guid>/tags/mysql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Openlayers</title>
-      <link>cv.almett.com/tags/openlayers/</link>
+      <link>/tags/openlayers/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>cv.almett.com/tags/openlayers/</guid>
+      <guid>/tags/openlayers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>REST APIs</title>
-      <link>cv.almett.com/tags/rest-apis/</link>
+      <link>/tags/rest-apis/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>cv.almett.com/tags/rest-apis/</guid>
+      <guid>/tags/rest-apis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Typeahead</title>
-      <link>cv.almett.com/tags/typeahead/</link>
+      <link>/tags/typeahead/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>cv.almett.com/tags/typeahead/</guid>
+      <guid>/tags/typeahead/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Velocity</title>
-      <link>cv.almett.com/tags/velocity/</link>
+      <link>/tags/velocity/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>cv.almett.com/tags/velocity/</guid>
+      <guid>/tags/velocity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>.NET</title>
-      <link>cv.almett.com/tags/.net/</link>
+      <link>/tags/.net/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>cv.almett.com/tags/.net/</guid>
+      <guid>/tags/.net/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Android</title>
-      <link>cv.almett.com/tags/android/</link>
+      <link>/tags/android/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>cv.almett.com/tags/android/</guid>
+      <guid>/tags/android/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Angular</title>
-      <link>cv.almett.com/tags/angular/</link>
+      <link>/tags/angular/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>cv.almett.com/tags/angular/</guid>
+      <guid>/tags/angular/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Atlassian Developer Ecosystem</title>
-      <link>cv.almett.com/tags/atlassian-developer-ecosystem/</link>
+      <link>/tags/atlassian-developer-ecosystem/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>cv.almett.com/tags/atlassian-developer-ecosystem/</guid>
+      <guid>/tags/atlassian-developer-ecosystem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bash/Shell</title>
-      <link>cv.almett.com/tags/bash/shell/</link>
+      <link>/tags/bash/shell/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>cv.almett.com/tags/bash/shell/</guid>
+      <guid>/tags/bash/shell/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C#</title>
-      <link>cv.almett.com/tags/c#/</link>
+      <link>/tags/c#/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>cv.almett.com/tags/c#/</guid>
+      <guid>/tags/c#/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Github</title>
-      <link>cv.almett.com/tags/github/</link>
+      <link>/tags/github/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>cv.almett.com/tags/github/</guid>
+      <guid>/tags/github/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hibernate</title>
-      <link>cv.almett.com/tags/hibernate/</link>
+      <link>/tags/hibernate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>cv.almett.com/tags/hibernate/</guid>
+      <guid>/tags/hibernate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hybirde APP</title>
-      <link>cv.almett.com/tags/hybirde-app/</link>
+      <link>/tags/hybirde-app/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>cv.almett.com/tags/hybirde-app/</guid>
+      <guid>/tags/hybirde-app/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IM API</title>
-      <link>cv.almett.com/tags/im-api/</link>
+      <link>/tags/im-api/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>cv.almett.com/tags/im-api/</guid>
+      <guid>/tags/im-api/</guid>
       <description></description>
     </item>
     
     <item>
       <title>JIRA</title>
-      <link>cv.almett.com/tags/jira/</link>
+      <link>/tags/jira/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>cv.almett.com/tags/jira/</guid>
+      <guid>/tags/jira/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LBS</title>
-      <link>cv.almett.com/tags/lbs/</link>
+      <link>/tags/lbs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>cv.almett.com/tags/lbs/</guid>
+      <guid>/tags/lbs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MVC</title>
-      <link>cv.almett.com/tags/mvc/</link>
+      <link>/tags/mvc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>cv.almett.com/tags/mvc/</guid>
+      <guid>/tags/mvc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MyBatis</title>
-      <link>cv.almett.com/tags/mybatis/</link>
+      <link>/tags/mybatis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>cv.almett.com/tags/mybatis/</guid>
+      <guid>/tags/mybatis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Redis</title>
-      <link>cv.almett.com/tags/redis/</link>
+      <link>/tags/redis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>cv.almett.com/tags/redis/</guid>
+      <guid>/tags/redis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SeLion</title>
-      <link>cv.almett.com/tags/selion/</link>
+      <link>/tags/selion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>cv.almett.com/tags/selion/</guid>
+      <guid>/tags/selion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Selenium</title>
-      <link>cv.almett.com/tags/selenium/</link>
+      <link>/tags/selenium/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>cv.almett.com/tags/selenium/</guid>
+      <guid>/tags/selenium/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spring</title>
-      <link>cv.almett.com/tags/spring/</link>
+      <link>/tags/spring/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>cv.almett.com/tags/spring/</guid>
+      <guid>/tags/spring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TestNG</title>
-      <link>cv.almett.com/tags/testng/</link>
+      <link>/tags/testng/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>cv.almett.com/tags/testng/</guid>
+      <guid>/tags/testng/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visual Studio Online</title>
-      <link>cv.almett.com/tags/visual-studio-online/</link>
+      <link>/tags/visual-studio-online/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>cv.almett.com/tags/visual-studio-online/</guid>
+      <guid>/tags/visual-studio-online/</guid>
       <description></description>
     </item>
     
     <item>
       <title>jenkins</title>
-      <link>cv.almett.com/tags/jenkins/</link>
+      <link>/tags/jenkins/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>cv.almett.com/tags/jenkins/</guid>
+      <guid>/tags/jenkins/</guid>
       <description></description>
     </item>
     

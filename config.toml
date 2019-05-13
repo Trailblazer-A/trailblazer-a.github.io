@@ -1,4 +1,4 @@
-baseURL = "cv.almett.com/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Alimjan Mettursun"
 theme = "resume"

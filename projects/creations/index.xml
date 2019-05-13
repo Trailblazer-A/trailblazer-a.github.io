@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Peojcts on Alimjan Mettursun</title>
-    <link>cv.almett.com/projects/creations/</link>
+    <link>/projects/creations/</link>
     <description>Recent content in Peojcts on Alimjan Mettursun</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate>
     
-	<atom:link href="cv.almett.com/projects/creations/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/projects/creations/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dansk Scanning A/S - WebLager</title>
-      <link>cv.almett.com/projects/creations/weblager/</link>
+      <link>/projects/creations/weblager/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>cv.almett.com/projects/creations/weblager/</guid>
+      <guid>/projects/creations/weblager/</guid>
       <description>WebLager has been developed as desired and in close dialogue with building case handlers and other stakeholders in the municipalities around the country. It helps to ensure a relevant and usable surface for managing and using the archive in everyday life.
 Technical role: Full-stack developer (Remote)
 Features
@@ -25,10 +25,10 @@ Features
     
     <item>
       <title>eBay global localization &amp; automation system</title>
-      <link>cv.almett.com/projects/creations/ebay-localization-playform/</link>
+      <link>/projects/creations/ebay-localization-playform/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>cv.almett.com/projects/creations/ebay-localization-playform/</guid>
+      <guid>/projects/creations/ebay-localization-playform/</guid>
       <description>Technical roles
  Back-end developer Test automation engineer  Back-end development
  Work status sync up between JIRA Multiple device localizationn pipeline automation Extend Jenkins Test result stats Automatic screenshot taking Screenshot editing and syncing Batch upload &amp;amp; download screenshots  Automated testing
@@ -37,10 +37,10 @@ Features
     
     <item>
       <title>Oral English practicing social media APP</title>
-      <link>cv.almett.com/projects/creations/language_learning_app/</link>
+      <link>/projects/creations/language_learning_app/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>cv.almett.com/projects/creations/language_learning_app/</guid>
+      <guid>/projects/creations/language_learning_app/</guid>
       <description>Roles
  Boss man Full-stack developer  APP Features
  Sign in with WeChat Show geographical locations of signup users on the home screen Voice chat capability Natural language processing Speech to text conversion Analysing texts Possible answer suggession to a question Pay for membership  </description>
@@ -48,10 +48,10 @@ Features
     
     <item>
       <title>Microsoft global localization &amp; automation platform</title>
-      <link>cv.almett.com/projects/creations/microsoft_localization/</link>
+      <link>/projects/creations/microsoft_localization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>cv.almett.com/projects/creations/microsoft_localization/</guid>
+      <guid>/projects/creations/microsoft_localization/</guid>
       <description>Technical roles
  Back-end developer Automation tool develope  Major responsibilities
  Microsoft global localization website back-end development Automated testing tools development (Web, Android and iOS) Language translation tool development for 52 different languages Pseduo translation generator Automoation platform monitoring tool. Whenever the tool crashes, monitoring feature sends Email to the developer with the bug specification  </description>
@@ -59,10 +59,10 @@ Features
     
     <item>
       <title>O2O platform for kid&#39;s education of music</title>
-      <link>cv.almett.com/projects/creations/kids_education_of_music/</link>
+      <link>/projects/creations/kids_education_of_music/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>cv.almett.com/projects/creations/kids_education_of_music/</guid>
+      <guid>/projects/creations/kids_education_of_music/</guid>
       <description>Music education platform that connects parents with music teachers. We offer two versions of this APP, one is for learners (kids), another is for teachers. Parents/students book classes of their prefered instruments, talk to teachers to decide the teaching time and avanue. Teachers give instant feedbacks to students.
 Technical Roles
  Full-stack engineer  Application Features
@@ -71,10 +71,10 @@ Technical Roles
     
     <item>
       <title>Team-based work management application</title>
-      <link>cv.almett.com/projects/creations/team_organizer/</link>
+      <link>/projects/creations/team_organizer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>cv.almett.com/projects/creations/team_organizer/</guid>
+      <guid>/projects/creations/team_organizer/</guid>
       <description>A team-based work management mobile application designed to help teams organize, track, and manage their work. Helps team players manage their tasks, and communicate with colleagues. Helps team leaders assign tasks, track work progress and capacity of the team, and generate the weekly/monthly work report.
 Roles
  Team leader Android developer  Application Features
